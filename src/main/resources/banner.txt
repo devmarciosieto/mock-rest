@@ -1,0 +1,14 @@
+${AnsiColor.BLUE} .----------------.  .----------------.  .----------------. ${AnsiColor.GREEN}  .----------------.${AnsiColor.MAGENTA}  .----------------.  .----------------.  .----------------.  .----------------.
+${AnsiColor.BLUE}| .--------------. || .--------------. || .--------------. |${AnsiColor.GREEN}| .--------------. |${AnsiColor.MAGENTA}| .--------------. || .--------------. || .--------------. || .--------------.
+${AnsiColor.BLUE}| |  ________    | || |  _________   | || | ____   ____  | |${AnsiColor.GREEN}| |   ${AnsiColor.BRIGHT_CYAN}Márcio     | |${AnsiColor.MAGENTA}| |     _____    | || |      __      | || | ____   ____  | || |      __      | |
+${AnsiColor.BLUE}| | |_   ___ `.  | || | |_   ___  |  | || ||_  _| |_  _| | |${AnsiColor.GREEN}| |              | |${AnsiColor.MAGENTA}| |    |_   _|   | || |     /  \     | || ||_  _| |_  _| | || |     /  \     | |
+${AnsiColor.BLUE}| |   | |   `. \ | || |   | |_  \_|  | || |  \ \   / /   | |${AnsiColor.GREEN}| |   ${AnsiColor.BRIGHT_GREEN}Rogério    | |${AnsiColor.MAGENTA}| |      | |     | || |    / /\ \    | || |  \ \   / /   | || |    / /\ \    | |
+${AnsiColor.BLUE}| |   | |    | | | || |   |  _|  _   | || |   \ \ / /    | |${AnsiColor.GREEN}| |              | |${AnsiColor.MAGENTA}| |   _  | |     | || |   / ____ \   | || |   \ \ / /    | || |   / ____ \   | |
+${AnsiColor.BLUE}| |  _| |___.' / | || |  _| |___/ |  | || |    \ ' /     | |${AnsiColor.GREEN}| |    ${AnsiColor.BRIGHT_CYAN}Sieto     | |${AnsiColor.MAGENTA}| |  | |_' |     | || | _/ /    \ \_ | || |    \ ' /     | || | _/ /    \ \_ | |
+${AnsiColor.BLUE}| | |________.'  | || | |_________|  | || |     \_/      | |${AnsiColor.GREEN}| |              | |${AnsiColor.MAGENTA}| |  `.___.'     | || ||____|  |____|| || |     \_/      | || ||____|  |____|| |
+${AnsiColor.BLUE}| |              | || |              | || |              | |${AnsiColor.GREEN}| |              | |${AnsiColor.MAGENTA}| |              | || |              | || |              | || |              | |
+${AnsiColor.BLUE}| '--------------' || '--------------' || '--------------' |${AnsiColor.GREEN}| '--------------' |${AnsiColor.MAGENTA}| '--------------' || '--------------' || '--------------' || '--------------' |
+${AnsiColor.BLUE}'----------------'  '----------------'  '----------------'  ${AnsiColor.GREEN}'----------------'  ${AnsiColor.MAGENTA}'----------------'  '----------------'  '----------------'  '----------------'
+
+${AnsiBackground.MAGENTA}${AnsiColor.BLACK} Aplicação ${application.title} Versão ${application.version} JAVA 11
+${AnsiBackground.DEFAULT}${AnsiColor.DEFAULT}Powered by Spring Boot ${spring-boot.version}
