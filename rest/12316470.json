@@ -1,0 +1,14 @@
+{
+    "id": 21,
+    "name": "Client 21",
+    "cep": "12316-470",
+    "logradouro": "Rua José Jordão Mercadante",
+    "complemento": "",
+    "bairro": "Jardim Paraíso",
+    "localidade": "Jacareí",
+    "uf": "SP",
+    "ibge": "3524402",
+    "gia": "3920",
+    "ddd": "12",
+    "siafi": "6589"
+}

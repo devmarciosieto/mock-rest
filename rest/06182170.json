@@ -1,0 +1,14 @@
+{
+    "id": 25,
+    "name": "Client 25",
+    "cep": "06182-170",
+    "logradouro": "Travessa Jorge Lesniscença",
+    "complemento": "",
+    "bairro": "Quitaúna",
+    "localidade": "Osasco",
+    "uf": "SP",
+    "ibge": "3534401",
+    "gia": "4923",
+    "ddd": "11",
+    "siafi": "6789"
+}

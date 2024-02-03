@@ -1,0 +1,14 @@
+{
+    "id": 12,
+    "name": "Client 12",
+    "cep": "12224-842",
+    "logradouro": "Rua Carolina Silva Dias",
+    "complemento": "",
+    "bairro": "Jardim Rodolfo",
+    "localidade": "São José dos Campos",
+    "uf": "SP",
+    "ibge": "3549904",
+    "gia": "6452",
+    "ddd": "12",
+    "siafi": "7099"
+}

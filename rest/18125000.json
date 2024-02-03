@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "name": "Client 1",
+    "cep": "18125-000",
+    "logradouro": "",
+    "complemento": "",
+    "bairro": "",
+    "localidade": "Alumínio",
+    "uf": "SP",
+    "ibge": "3501152",
+    "gia": "7330",
+    "ddd": "11",
+    "siafi": "3065"
+}

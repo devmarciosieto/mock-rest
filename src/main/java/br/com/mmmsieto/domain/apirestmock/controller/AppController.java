@@ -19,11 +19,16 @@ import java.time.format.DateTimeFormatter;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
+
 @RestController
 @RequestMapping("/")
 public class AppController {
+
+    static int i = 0;
+
     @GetMapping("/**")
     public ResponseEntity<Resource> getFile(HttpServletRequest request) {
+        System.out.println("GET" + i++);
         try {
 
             StringBuilder requestBody = new StringBuilder();
@@ -46,7 +51,7 @@ public class AppController {
                 return ResponseEntity.notFound().build();
             }
 
-            logRequest(request, file, requestBody, "get");
+         //   logRequest(request, file, requestBody, "get");
 
             return ResponseEntity.ok()
                     .contentType(MediaType.APPLICATION_JSON)

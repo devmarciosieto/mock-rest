@@ -1,0 +1,14 @@
+{
+    "id": 13,
+    "name": "Client 13",
+    "cep": "13312-127",
+    "logradouro": "Rua Flávio Silveira da Costa",
+    "complemento": "",
+    "bairro": "Jardim Estância Bom Viver",
+    "localidade": "Itu",
+    "uf": "SP",
+    "ibge": "3523909",
+    "gia": "3876",
+    "ddd": "11",
+    "siafi": "6579"
+}

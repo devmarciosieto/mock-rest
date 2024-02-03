@@ -1,0 +1,14 @@
+{
+    "id": 22,
+    "name": "Client 22",
+    "cep": "02205-080",
+    "logradouro": "Rua José Batista da Silva",
+    "complemento": "",
+    "bairro": "Vila Medeiros",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+}

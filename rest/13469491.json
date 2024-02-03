@@ -1,0 +1,14 @@
+{
+    "id": 15,
+    "name": "Client 15",
+    "cep": "13469-491",
+    "logradouro": "Rua Macapá",
+    "complemento": "",
+    "bairro": "Jardim São Roque",
+    "localidade": "Americana",
+    "uf": "SP",
+    "ibge": "3501608",
+    "gia": "1650",
+    "ddd": "19",
+    "siafi": "6131"
+}

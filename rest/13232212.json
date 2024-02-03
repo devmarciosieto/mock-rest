@@ -1,0 +1,14 @@
+{
+    "id": 8,
+    "name": "Client 8",
+    "cep": "13232-212",
+    "logradouro": "Rua Irene Belliero Boraldo",
+    "complemento": "",
+    "bairro": "Parque Residencial Califórnia",
+    "localidade": "Campo Limpo Paulista",
+    "uf": "SP",
+    "ibge": "3509601",
+    "gia": "2458",
+    "ddd": "11",
+    "siafi": "6293"
+}

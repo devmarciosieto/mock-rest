@@ -1,0 +1,14 @@
+{
+    "id": 16,
+    "name": "Client 16",
+    "cep": "06402-020",
+    "logradouro": "Rua Ana de Camargo Branco",
+    "complemento": "",
+    "bairro": "Vila São Jorge",
+    "localidade": "Barueri",
+    "uf": "SP",
+    "ibge": "3505708",
+    "gia": "2069",
+    "ddd": "11",
+    "siafi": "6213"
+}

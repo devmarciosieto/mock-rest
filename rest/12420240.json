@@ -1,0 +1,14 @@
+{
+    "id": 20,
+    "name": "Client 20",
+    "cep": "12420-240",
+    "logradouro": "Rua Doutor Armando Marcondes Machado",
+    "complemento": "",
+    "bairro": "Alto do Cardoso",
+    "localidade": "Pindamonhangaba",
+    "uf": "SP",
+    "ibge": "3538006",
+    "gia": "5289",
+    "ddd": "12",
+    "siafi": "6861"
+}

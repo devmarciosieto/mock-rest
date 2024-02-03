@@ -1,0 +1,14 @@
+{
+    "id": 23,
+    "name": "Client 23",
+    "cep": "02977-110",
+    "logradouro": "Travessa Amaro do Amaral",
+    "complemento": "",
+    "bairro": "Vila Zat",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+}

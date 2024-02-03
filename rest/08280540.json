@@ -1,0 +1,14 @@
+{
+    "id": 7,
+    "name": "Client 7",
+    "cep": "08280-540",
+    "logradouro": "Rua Arcádia Paulistana",
+    "complemento": "",
+    "bairro": "Jardim Nossa Senhora do Carmo",
+    "localidade": "São Paulo",
+    "uf": "SP",
+    "ibge": "3550308",
+    "gia": "1004",
+    "ddd": "11",
+    "siafi": "7107"
+}

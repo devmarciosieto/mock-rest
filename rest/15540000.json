@@ -1,0 +1,14 @@
+{
+    "id": 2,
+    "name": "Client 2",
+    "cep": "15540-000",
+    "logradouro": "",
+    "complemento": "",
+    "bairro": "",
+    "localidade": "Álvares Florence",
+    "uf": "SP",
+    "ibge": "3501202",
+    "gia": "1612",
+    "ddd": "17",
+    "siafi": "6123"
+}

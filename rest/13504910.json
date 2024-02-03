@@ -1,0 +1,14 @@
+{
+    "id": 10,
+    "name": "Client 10",
+    "cep": "13504-910",
+    "logradouro": "Estrada 3",
+    "complemento": "2930",
+    "bairro": "Zona Central",
+    "localidade": "Rio Claro",
+    "uf": "SP",
+    "ibge": "3543907",
+    "gia": "5873",
+    "ddd": "19",
+    "siafi": "6979"
+}
